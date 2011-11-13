@@ -1,6 +1,6 @@
 $:.push File.expand_path(File.join(File.dirname(__FILE__), '..', 'lib'))
 require 'rspec'
-require 'ruby_ncurses_toolkit'
+require 'ncurses_toolkit'
 
 include TechnoGate
 

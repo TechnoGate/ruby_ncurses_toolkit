@@ -1,5 +1,5 @@
 module TechnoGate
-  module RubyNcursesToolkit
+  module NcursesToolkit
     MAJOR = 0
     MINOR = 0
     TINY = 1

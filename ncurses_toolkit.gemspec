@@ -1,10 +1,10 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "ruby_ncurses_toolkit/version"
+require "ncurses_toolkit/version"
 
 Gem::Specification.new do |s|
-  s.name        = "ruby_ncurses_toolkit"
-  s.version     = TechnoGate::RubyNcursesToolkit.version
+  s.name        = "ncurses_toolkit"
+  s.version     = TechnoGate::NcursesToolkit.version
   s.authors     = ["Wael Nasreddine"]
   s.email       = ["wael.nasreddine@gmail.com"]
   s.homepage    = ""
