@@ -1,7 +1,5 @@
-require "ncurses_toolkit/version"
+require "bundler/setup"
+require "active_support/core_ext"
 
-module TechnoGate
-  module NcursesToolkit
-    # Your code goes here...
-  end
-end
+# Require common file
+require "ncurses_toolkit/version"
