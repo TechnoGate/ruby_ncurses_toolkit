@@ -1,5 +1,7 @@
 require "ruby_ncurses_toolkit/version"
 
-module RubyNcursesToolkit
-  # Your code goes here...
+module TechnoGate
+  module RubyNcursesToolkit
+    # Your code goes here...
+  end
 end
